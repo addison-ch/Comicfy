@@ -20,7 +20,13 @@ Our team of 4 ended up demo-ing this project at HTV 7, and although we didn't wi
   npm install
   npm start
   ```
-3. Run the server
+3. Set up API keys (set in .env file in the server folder)
+  ```
+  WOMBO_KEY=YOURKEY
+  COHERE_KEY=YOUROTHERKEY
+  ```
+4. Run the server
+ 
  ```
   cd server
   pip install -r requirements.txt
