@@ -1,8 +1,8 @@
 ## 💭 Comicfy
 
-#### Comicfy.AI aims to turn any piece of fiction, historical account, or life story into a visual experience (in the format of a comic strip).
+Comicfy is a web applciation that turns any piece of text into a comic strip!
 
-The front-end of our application was developed using React. We utilised multi-threading with Python in the backend to concurrently make requests to the Wombo Dream API and Cohere's API. We also built an algorithm to determine to most relevant sentences in a story. Our back-end is built using FastAPI (Python framework) to integrate everything together!
+The front-end of our application was developed using React. Image generation and text analysis were done using Cohere and Wombo's APIs. We utilised multi-threading with Python in the backend to concurrently make API requests. We also built an algorithm to determine to most relevant sentences in a story. Our back-end is built using FastAPI (Python framework) to integrate everything together!
 
 Our team of 4 ended up demo-ing this project at HTV 7, and although we didn't win (😢), we learned a whole lot about APIs, HTTP requests, and general software development!
 
