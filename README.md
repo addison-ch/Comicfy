@@ -1,4 +1,4 @@
-## 💭 Comicfy - Hack the Valley 7 
+## 💭 Comicfy
 
 #### Comicfy.AI aims to turn any piece of fiction, historical account, or life story into a visual experience (in the format of a comic strip).
 
