@@ -8,7 +8,7 @@ Our team of 4 ended up demo-ing this project at HTV 7, and although we didn't wi
 
 
 
-## 💥 Try it yourself
+### 💥 Try it yourself
 1.  Clone and move into repository
 ```
  $ git clone https://github.com/addison-ch/Comicfy.git
@@ -35,5 +35,6 @@ Our team of 4 ended up demo-ing this project at HTV 7, and although we didn't wi
 
 
 
-## 💫 Screenshot
+### 💫 Screenshot
+Example using an excerpt from HBO's House of the Dragon:
 ![screenshot](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/254/743/datas/gallery.jpg)
